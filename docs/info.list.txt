@@ -1,0 +1,206 @@
+/home/dyn/bin/youtube-dl        --ignore-errors --restrict-filenames  --write-info-json --no-overwrites --limit-rate 4M -o  %(upload_date)s_%(release_date)s_%(id)s.%(ext)s  -F https://www.youtube.com/channel/UCaSjKUGg6zckwfMzQBFtdgw
+[youtube:channel] UCaSjKUGg6zckwfMzQBFtdgw: Downloading channel page
+[youtube:playlist] UUaSjKUGg6zckwfMzQBFtdgw: Downloading webpage
+[download] Downloading playlist: Uploads from 我是記者 我的六四故事 - I am a Journalist, My June 4 story
+[youtube:playlist] playlist Uploads from 我是記者 我的六四故事 - I am a Journalist, My June 4 story: Downloading 8 videos
+[download] Downloading video 1 of 8
+[youtube] nJW_tCjobMg: Downloading webpage
+[youtube] nJW_tCjobMg: Downloading video info webpage
+[info] Available formats for nJW_tCjobMg:
+format code  extension  resolution note
+249          webm       audio only DASH audio   55k , opus @ 50k, 1.62MiB
+250          webm       audio only DASH audio   72k , opus @ 70k, 2.11MiB
+171          webm       audio only DASH audio  110k , vorbis@128k, 3.26MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2@128k, 4.32MiB
+251          webm       audio only DASH audio  140k , opus @160k, 4.14MiB
+278          webm       256x144    144p  100k , webm container, vp9, 25fps, video only, 2.93MiB
+160          mp4        256x144    144p  110k , avc1.4d400c, 25fps, video only, 1.92MiB
+242          webm       426x240    240p  221k , vp9, 25fps, video only, 4.83MiB
+133          mp4        426x240    240p  242k , avc1.4d4015, 25fps, video only, 3.56MiB
+243          webm       640x360    360p  402k , vp9, 25fps, video only, 9.04MiB
+134          mp4        640x360    360p  635k , avc1.4d401e, 25fps, video only, 8.95MiB
+244          webm       854x480    480p  742k , vp9, 25fps, video only, 15.57MiB
+135          mp4        854x480    480p 1163k , avc1.4d401e, 25fps, video only, 17.67MiB
+247          webm       1280x720   720p 1474k , vp9, 25fps, video only, 30.89MiB
+136          mp4        1280x720   720p 2327k , avc1.4d401f, 25fps, video only, 33.34MiB
+248          webm       1920x1080  1080p 2623k , vp9, 25fps, video only, 54.73MiB
+137          mp4        1920x1080  1080p 3505k , avc1.640028, 25fps, video only, 59.98MiB
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k, 17.87MiB
+43           webm       640x360    medium , vp8.0, vorbis@128k, 23.66MiB
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+[download] Downloading video 2 of 8
+[youtube] 6FxXCNQjKrs: Downloading webpage
+[youtube] 6FxXCNQjKrs: Downloading video info webpage
+[info] Available formats for 6FxXCNQjKrs:
+format code  extension  resolution note
+249          webm       audio only DASH audio   56k , opus @ 50k, 1.62MiB
+250          webm       audio only DASH audio   74k , opus @ 70k, 2.11MiB
+171          webm       audio only DASH audio  114k , vorbis@128k, 3.36MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2@128k, 4.37MiB
+251          webm       audio only DASH audio  147k , opus @160k, 4.09MiB
+278          webm       256x144    144p  100k , webm container, vp9, 25fps, video only, 3.00MiB
+160          mp4        256x144    144p  111k , avc1.4d400c, 25fps, video only, 1.88MiB
+242          webm       426x240    240p  222k , vp9, 25fps, video only, 5.16MiB
+133          mp4        426x240    240p  244k , avc1.4d4015, 25fps, video only, 3.65MiB
+243          webm       640x360    360p  402k , vp9, 25fps, video only, 9.96MiB
+134          mp4        640x360    360p  635k , avc1.4d401e, 25fps, video only, 9.80MiB
+244          webm       854x480    480p  743k , vp9, 25fps, video only, 17.81MiB
+135          mp4        854x480    480p 1185k , avc1.4d401e, 25fps, video only, 20.42MiB
+247          webm       1280x720   720p 1468k , vp9, 25fps, video only, 36.80MiB
+136          mp4        1280x720   720p 2329k , avc1.4d401f, 25fps, video only, 40.96MiB
+248          webm       1920x1080  1080p 2693k , vp9, 25fps, video only, 66.51MiB
+137          mp4        1920x1080  1080p 4332k , avc1.640028, 25fps, video only, 76.28MiB
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k, 19.11MiB
+43           webm       640x360    medium , vp8.0, vorbis@128k, 26.87MiB
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+[download] Downloading video 3 of 8
+[youtube] 3OW1sXxHsm0: Downloading webpage
+[youtube] 3OW1sXxHsm0: Downloading video info webpage
+[info] Available formats for 3OW1sXxHsm0:
+format code  extension  resolution note
+249          webm       audio only DASH audio   63k , opus @ 50k, 2.03MiB
+250          webm       audio only DASH audio   82k , opus @ 70k, 2.63MiB
+171          webm       audio only DASH audio  118k , vorbis@128k, 3.81MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2@128k, 4.96MiB
+251          webm       audio only DASH audio  162k , opus @160k, 5.07MiB
+278          webm       256x144    144p   99k , webm container, vp9, 25fps, video only, 3.36MiB
+160          mp4        256x144    144p  110k , avc1.4d400c, 25fps, video only, 2.44MiB
+242          webm       426x240    240p  221k , vp9, 25fps, video only, 5.96MiB
+133          mp4        426x240    240p  244k , avc1.4d4015, 25fps, video only, 4.53MiB
+243          webm       640x360    360p  402k , vp9, 25fps, video only, 11.10MiB
+134          mp4        640x360    360p  635k , avc1.4d401e, 25fps, video only, 11.44MiB
+244          webm       854x480    480p  743k , vp9, 25fps, video only, 19.06MiB
+135          mp4        854x480    480p 1164k , avc1.4d401e, 25fps, video only, 22.46MiB
+247          webm       1280x720   720p 1478k , vp9, 25fps, video only, 37.61MiB
+136          mp4        1280x720   720p 2328k , avc1.4d401f, 25fps, video only, 42.44MiB
+248          webm       1920x1080  1080p 2629k , vp9, 25fps, video only, 67.02MiB
+137          mp4        1920x1080  1080p 4330k , avc1.640028, 25fps, video only, 75.27MiB
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k, 21.97MiB
+43           webm       640x360    medium , vp8.0, vorbis@128k, 30.55MiB
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+[download] Downloading video 4 of 8
+[youtube] y6cMNZ8q6Cc: Downloading webpage
+[youtube] y6cMNZ8q6Cc: Downloading video info webpage
+[info] Available formats for y6cMNZ8q6Cc:
+format code  extension  resolution note
+249          webm       audio only DASH audio   57k , opus @ 50k, 2.43MiB
+250          webm       audio only DASH audio   75k , opus @ 70k, 3.21MiB
+171          webm       audio only DASH audio  119k , vorbis@128k, 5.20MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2@128k, 6.19MiB
+251          webm       audio only DASH audio  149k , opus @160k, 6.39MiB
+160          mp4        256x144    144p  111k , avc1.4d400c, 25fps, video only, 3.65MiB
+278          webm       256x144    144p  142k , webm container, vp9, 25fps, video only, 5.15MiB
+242          webm       426x240    240p  208k , vp9, 25fps, video only, 6.11MiB
+133          mp4        426x240    240p  288k , avc1.4d4015, 25fps, video only, 4.55MiB
+243          webm       640x360    360p  400k , vp9, 25fps, video only, 10.91MiB
+134          mp4        640x360    360p  618k , avc1.4d401e, 25fps, video only, 8.61MiB
+244          webm       854x480    480p  753k , vp9, 25fps, video only, 16.39MiB
+135          mp4        854x480    480p  830k , avc1.4d401e, 25fps, video only, 13.60MiB
+247          webm       1280x720   720p 1497k , vp9, 25fps, video only, 27.66MiB
+136          mp4        1280x720   720p 1810k , avc1.4d401f, 25fps, video only, 24.26MiB
+248          webm       1920x1080  1080p 2766k , vp9, 25fps, video only, 82.28MiB
+137          mp4        1920x1080  1080p 4215k , avc1.640028, 25fps, video only, 94.74MiB
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k, 26.02MiB
+43           webm       640x360    medium , vp8.0, vorbis@128k, 37.97MiB
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+[download] Downloading video 5 of 8
+[youtube] eJ2YnjsmUzg: Downloading webpage
+[youtube] eJ2YnjsmUzg: Downloading video info webpage
+[info] Available formats for eJ2YnjsmUzg:
+format code  extension  resolution note
+249          webm       audio only DASH audio   61k , opus @ 50k, 1.51MiB
+250          webm       audio only DASH audio   78k , opus @ 70k, 1.95MiB
+171          webm       audio only DASH audio  124k , vorbis@128k, 3.27MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2@128k, 4.20MiB
+251          webm       audio only DASH audio  145k , opus @160k, 3.84MiB
+160          mp4        256x144    144p  118k , avc1.4d400c, 25fps, video only, 2.48MiB
+278          webm       256x144    144p  147k , webm container, vp9, 25fps, video only, 3.44MiB
+242          webm       426x240    240p  217k , vp9, 25fps, video only, 4.61MiB
+133          mp4        426x240    240p  287k , avc1.4d4015, 25fps, video only, 3.45MiB
+243          webm       640x360    360p  397k , vp9, 25fps, video only, 8.26MiB
+134          mp4        640x360    360p  612k , avc1.4d401e, 25fps, video only, 6.56MiB
+244          webm       854x480    480p  723k , vp9, 25fps, video only, 12.66MiB
+135          mp4        854x480    480p  836k , avc1.4d401e, 25fps, video only, 10.38MiB
+136          mp4        1280x720   720p 1300k , avc1.4d401f, 25fps, video only, 18.05MiB
+247          webm       1280x720   720p 1370k , vp9, 25fps, video only, 21.84MiB
+248          webm       1920x1080  1080p 2629k , vp9, 25fps, video only, 61.01MiB
+137          mp4        1920x1080  1080p 4310k , avc1.640028, 25fps, video only, 71.88MiB
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k, 18.27MiB
+43           webm       640x360    medium , vp8.0, vorbis@128k, 24.28MiB
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+[download] Downloading video 6 of 8
+[youtube] KTvvnPU5GUY: Downloading webpage
+[youtube] KTvvnPU5GUY: Downloading video info webpage
+[info] Available formats for KTvvnPU5GUY:
+format code  extension  resolution note
+249          webm       audio only DASH audio   54k , opus @ 50k, 1.55MiB
+250          webm       audio only DASH audio   72k , opus @ 70k, 2.02MiB
+171          webm       audio only DASH audio  113k , vorbis@128k, 3.21MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2@128k, 4.21MiB
+251          webm       audio only DASH audio  143k , opus @160k, 3.96MiB
+278          webm       256x144    144p  139k , webm container, vp9, 25fps, video only, 3.18MiB
+160          mp4        256x144    144p  147k , avc1.4d400c, 25fps, video only, 2.01MiB
+242          webm       426x240    240p  195k , vp9, 25fps, video only, 3.55MiB
+133          mp4        426x240    240p  240k , avc1.4d4015, 25fps, video only, 2.80MiB
+243          webm       640x360    360p  387k , vp9, 25fps, video only, 5.96MiB
+134          mp4        640x360    360p  461k , avc1.4d401e, 25fps, video only, 5.16MiB
+244          webm       854x480    480p  668k , vp9, 25fps, video only, 8.99MiB
+135          mp4        854x480    480p  875k , avc1.4d401e, 25fps, video only, 8.06MiB
+247          webm       1280x720   720p 1217k , vp9, 25fps, video only, 15.59MiB
+136          mp4        1280x720   720p 1474k , avc1.4d401f, 25fps, video only, 14.34MiB
+248          webm       1920x1080  1080p 2629k , vp9, 25fps, video only, 44.65MiB
+137          mp4        1920x1080  1080p 4291k , avc1.640028, 25fps, video only, 56.93MiB
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k, 15.55MiB
+43           webm       640x360    medium , vp8.0, vorbis@128k, 21.52MiB
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+[download] Downloading video 7 of 8
+[youtube] AnkXbEX06N0: Downloading webpage
+[youtube] AnkXbEX06N0: Downloading video info webpage
+[info] Available formats for AnkXbEX06N0:
+format code  extension  resolution note
+249          webm       audio only DASH audio   62k , opus @ 50k, 2.06MiB
+250          webm       audio only DASH audio   80k , opus @ 70k, 2.68MiB
+171          webm       audio only DASH audio  115k , vorbis@128k, 3.84MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2@128k, 4.90MiB
+251          webm       audio only DASH audio  157k , opus @160k, 5.27MiB
+160          mp4        256x144    144p  109k , avc1.4d400c, 25fps, video only, 2.03MiB
+278          webm       256x144    144p  141k , webm container, vp9, 25fps, video only, 3.87MiB
+242          webm       426x240    240p  204k , vp9, 25fps, video only, 4.24MiB
+133          mp4        426x240    240p  241k , avc1.4d4015, 25fps, video only, 3.10MiB
+243          webm       640x360    360p  396k , vp9, 25fps, video only, 7.44MiB
+134          mp4        640x360    360p  463k , avc1.4d401e, 25fps, video only, 5.99MiB
+244          webm       854x480    480p  720k , vp9, 25fps, video only, 11.72MiB
+135          mp4        854x480    480p  881k , avc1.4d401e, 25fps, video only, 9.94MiB
+136          mp4        1280x720   720p 1491k , avc1.4d401f, 25fps, video only, 17.89MiB
+247          webm       1280x720   720p 1493k , vp9, 25fps, video only, 21.19MiB
+248          webm       1920x1080  1080p 2690k , vp9, 25fps, video only, 60.68MiB
+137          mp4        1920x1080  1080p 4325k , avc1.640028, 25fps, video only, 76.90MiB
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k, 18.53MiB
+43           webm       640x360    medium , vp8.0, vorbis@128k, 27.63MiB
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+[download] Downloading video 8 of 8
+[youtube] CY0vfU0sd3k: Downloading webpage
+[youtube] CY0vfU0sd3k: Downloading video info webpage
+[info] Available formats for CY0vfU0sd3k:
+format code  extension  resolution note
+249          webm       audio only DASH audio   53k , opus @ 50k, 1.58MiB
+250          webm       audio only DASH audio   66k , opus @ 70k, 2.01MiB
+171          webm       audio only DASH audio  116k , vorbis@128k, 3.39MiB
+251          webm       audio only DASH audio  126k , opus @160k, 3.86MiB
+140          m4a        audio only DASH audio  130k , m4a_dash container, mp4a.40.2@128k, 4.53MiB
+160          mp4        256x144    144p  118k , avc1.4d400c, 25fps, video only, 2.37MiB
+278          webm       256x144    144p  139k , webm container, vp9, 25fps, video only, 3.62MiB
+242          webm       426x240    240p  217k , vp9, 25fps, video only, 4.37MiB
+133          mp4        426x240    240p  242k , avc1.4d4015, 25fps, video only, 3.38MiB
+243          webm       640x360    360p  406k , vp9, 25fps, video only, 8.06MiB
+134          mp4        640x360    360p  562k , avc1.4d401e, 25fps, video only, 6.65MiB
+244          webm       854x480    480p  752k , vp9, 25fps, video only, 12.68MiB
+135          mp4        854x480    480p 1040k , avc1.4d401e, 25fps, video only, 10.86MiB
+247          webm       1280x720   720p 1499k , vp9, 25fps, video only, 22.69MiB
+136          mp4        1280x720   720p 2218k , avc1.4d401f, 25fps, video only, 20.13MiB
+248          webm       1920x1080  1080p 2645k , vp9, 25fps, video only, 64.81MiB
+137          mp4        1920x1080  1080p 4323k , avc1.640028, 25fps, video only, 74.10MiB
+18           mp4        640x360    medium , avc1.42001E, mp4a.40.2@ 96k, 18.80MiB
+43           webm       640x360    medium , vp8.0, vorbis@128k, 27.52MiB
+22           mp4        1280x720   hd720 , avc1.64001F, mp4a.40.2@192k (best)
+[download] Finished downloading playlist: Uploads from 我是記者 我的六四故事 - I am a Journalist, My June 4 story
